@@ -1,4 +1,4 @@
-console.log("Hello From A - CONFLICT")
+console.log("Hello From B - CONFLICT")
 console.log("Second_line")
 console.log("Feature_FF")
 console.log("Feature_NO_FF")
